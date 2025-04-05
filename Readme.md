@@ -6,15 +6,13 @@ A fun and addictive **Fruit Matcher** game built with **React**! Match pairs of 
 
 ## 🎮 Live Demo
 
-🔗 [Play Now](https://your-live-demo-link.com)
-
-> _Hosted on Vercel / Netlify / GitHub Pages (Replace with your actual link)_
+🔗 [Play Now](https://react-fruit-matcher-game.vercel.app/)
 
 ---
 
 ## 📸 Screenshot
 
-![Fruit Matcher Game Screenshot](https://github.com/AnkitKumar666/React-FruitMatcherGame/blob/273da2a703f42604fd6c5ee9f29767864268b693/public/Fruit%20Matcher%20Game.png)
+![Fruit Matcher Game Screenshot](https://github.com/AnkitKumar666/React-FruitMatcherGame/blob/273da2a703f42604fd6c5ee9f29767864268b693/public/Fruit%20Matcher%20Game.png)(https://react-fruit-matcher-game.vercel.app/)
 
 > _Make sure to place the screenshot in the correct path or use a hosted image URL if needed._
 
@@ -44,5 +42,5 @@ A fun and addictive **Fruit Matcher** game built with **React**! Match pairs of 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/fruit-matcher-game.git
-cd fruit-matcher-game
+git clone https://github.com/AnkitKumar666/React-FruitMatcherGame.git
+cd React-FruitMatcherGame
