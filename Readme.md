@@ -12,10 +12,7 @@ A fun and addictive **Fruit Matcher** game built with **React**! Match pairs of 
 
 ## 📸 Screenshot
 
-![Fruit Matcher Game Screenshot](https://github.com/AnkitKumar666/React-FruitMatcherGame/blob/273da2a703f42604fd6c5ee9f29767864268b693/public/Fruit%20Matcher%20Game.png)(https://react-fruit-matcher-game.vercel.app/)
-
-> _Make sure to place the screenshot in the correct path or use a hosted image URL if needed._
-
+![Fruit Matcher Game Screenshot](https://github.com/AnkitKumar666/React-FruitMatcherGame/blob/273da2a703f42604fd6c5ee9f29767864268b693/public/Fruit%20Matcher%20Game.png)
 ---
 
 ## 🚀 Features
