@@ -45,5 +45,6 @@ cd React-FruitMatcherGame
 2. **Install & Run Command**
 ```bash
 npm install
+npm run dev
 
    
