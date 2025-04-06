@@ -46,5 +46,6 @@ cd React-FruitMatcherGame
 ```bash
 npm install
 npm run dev
+```
 
    
