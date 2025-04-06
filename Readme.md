@@ -43,4 +43,6 @@ git clone https://github.com/AnkitKumar666/React-FruitMatcherGame.git
 cd React-FruitMatcherGame
 ```
 2. **Install & Run Command**
+```bash
+
    
