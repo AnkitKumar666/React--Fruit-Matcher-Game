@@ -41,3 +41,6 @@ A fun and addictive **Fruit Matcher** game built with **React**! Match pairs of 
 ```bash
 git clone https://github.com/AnkitKumar666/React-FruitMatcherGame.git
 cd React-FruitMatcherGame
+```
+2. **Install & Run Command**
+   
